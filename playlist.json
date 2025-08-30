@@ -1,68 +1,57 @@
 [
-  {
-    "title": "Live Events",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaYmPg3Y0ewyGw39azX_NXBPOA3NLKMQCmF_yiWJkMtYvEG70hQKhYixojiZxmSGP92hy4w5V0MMov5lvm8e306uCY_YdTT7zzr3cbmt5E_WgQJ3L4r1jXL1tVwUDszn-PnR5-UKc14_itH0j-GcBrvoCAt9g5lkPlZ9p_0WSHpk-nKTDUIQuuLNx8Ftm1/s1000/giphy.gif",
-    "m3uLink": "https://dtvlive.dtvhindi.news/dtv-live-event.html"
-  },
-  {
-   "title": "Jiotv+ Ultimate",
-   "imageUrl": "https://iili.io/FHEDWQa.png",
-    "m3uLink": "https://dtvlive.dtvhindi.news/jtvultimate.txt"
-  },
-  {
-   "title": "Hotstar Channels",
-   "imageUrl": "https://iili.io/3gqqeTu.png",
-    "m3uLink": "https://dtvxtream.com/hotstar/playlist/playlist_updated.m3u"
-  },
- 
-  {
-  "title": "IPL 2025 HIGHLIGHTS",
-    "imageUrl": "https://iili.io/3Xzhb5u.png",
-    "m3uLink": "https://dtvlive.dtvhindi.news/ipl2025-highlights.txt"
-  },
-   {
-  "title": "IPL 2025 REPLAY",
-    "imageUrl": "https://iili.io/3p9SScv.png",
-    "m3uLink": "https://dtvlive.dtvhindi.news/ipl2025-replay.txt"
-  },
-   {
-  "title": "RCB vs PBKS, FINAL ALL CLIP",
-    "imageUrl": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/648/1748918450648-h",
-    "m3uLink": "https://dtvlive.dtvhindi.news/lsg-rcb.txt"
-  },
-// {
-   // "title": "TataPlay Worldwide",
-   // "imageUrl": "https://iili.io/3vYfloX.png",
-    // "m3uLink": "https://dtvlive.dtvhindi.news/tatawss.txt"
-  // },
-   // {
-  // "title": "JioTv+",
-    // "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8gUEhG3jrWgv6jTzGcVI39D-Pm_86W2V3Oi4aTB4GqALhLHR1xttFjfkk-QTiS4e2R2XOAc7lQTZHtlLiePKeqOxoOFYqC_gmv79h9rczddl5BNLqC6vUHrc_A8KxIUi8kv_ht7pigsVC3Labv6EZhDTVndTjB7iYkiSjK7zRqd7P8MYbVvxxOnDpA5Ei/s1280/20250321_132617.png",
-    // "m3uLink": "https://dtvlive.dtvhindi.news/jiotv.txt"
-  // },
-   {
-    "title": "SONY LIV",
-    "imageUrl": "https://iili.io/3vYIQcX.png",
-    "m3uLink": "https://dtvlive.dtvhindi.news/sonydtv.txt"
-  },
-  {
-    "title": "Sun NXT",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL7wRBLfmf-klqedTa5o1KXHnj3a0hD6UCMX1OCxcky2zvSZiu1xw46mVl502JIultII7zbBdqYOoYQU6wqKMQLr6Vpq16a4_R8Vqk80RnCNAP_pkFTPg-wgIFdwj854rvIHU7_jlcEiLRDapbeQtcv1_Xz50wZc_3mkHuLmwOjnMHQzQ5zh9IgKv71DA5/s1280/20250321_135819.png",
-    "m3uLink": "https://dtvlive.dtvhindi.news/sunnxt.txt"
-  },
-  {
-    "title": "YUPPTV",
-    "imageUrl": "https://iili.io/F9QUVcX.png",
-    "m3uLink": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist.m3u"
-  },
-  // {
-    // "title": "Movies",
-    // "imageUrl": "https://images.vexels.com/media/users/3/220794/isolated/preview/0eb1ed124dbd3773ae0e10d32763126f-film-reel-flat-icon.png",
-    // "m3uLink": "https://fansspot.fun/movievip.txt"
-  // },
-  {
-    "title": "Fancode Live",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxTMelG-QKLTBf6cshNFIihBmnF_LJCJ2vQSgB9fOWM70H81iLwupmXnaiNunNLtzMNsHXLFDJU4GM76mtZzMAzsQbdj9S_AbsKk4KxJjPWYAbInaR74whGNfpgubV10JgU5glhnM0zL4BZQ1-MczS1sRGbQEAbf1hg-zEBWuKBnHGM0mjojJ4JVGYnQg/s1280/20250321_134245.png",
-    "m3uLink": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
-  }
+  {
+    "title": "Fancode",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png",
+    "m3uLink": "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.m3u"
+  },
+  {
+    "title": "SonyLiv Events",
+    "imageUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2021/12/sonyliv-logo-freelogovectors.net_.png",
+    "m3uLink": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+  },
+  {
+    "title": "JioTv+",
+    "imageUrl": "https://m.media-amazon.com/images/I/31GngoiH5pL.png",
+    "m3uLink": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/jstar.m3u"
+  },
+  {
+    "title": "Zee5",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",
+    "m3uLink": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/z5.m3u"
+  },
+  {
+    "title": "SonyLiv",
+    "imageUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2021/12/sonyliv-logo-freelogovectors.net_.png",
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/SonyLIV.m3u"
+  },
+  {
+    "title": "Sunnxt",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Sun_NXT_logo_small.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/SunNxt.m3u"
+  },
+  {
+    "title": "YuppTv",
+    "imageUrl": "https://m.media-amazon.com/images/I/41mcw3k6f5L.png",
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/YuppTV.m3u"
+  },
+  {
+    "title": "AstroGo",
+    "imageUrl": "https://cdn.prod.website-files.com/60a75d8226f3295ecacf9e33/6143748c117705cedffc4ee7_6124a051ce5fb8ee1d58427c_AG%2520logo.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Astr0g0.m3u"
+  },
+  {
+    "title": "Tamil Local Channel",
+    "imageUrl": "https://i.ibb.co/svs6DpyC/Picsart-25-04-29-10-52-15-721.png",
+    "m3uLink": "https://github.com/8088yyy/TV/raw/refs/heads/main/Tamil_Local_Channel.m3u"
+  },
+  {
+    "title": "Radio",
+    "imageUrl": "https://play-lh.googleusercontent.com/xvYf7WalhnqrCa47xA2-npCyZZJwzeFQwtfhjNCn2XHqRC12W0k3Ua2Dhpd-Td_fDg",
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/Tamil_Radio.m3u"
+  },
+  {
+    "title": "Movies",
+    "imageUrl": "https://i.ibb.co/q3Yg0GCr/cloud.png",
+    "m3uLink": "https://raw.githubusercontent.com/8088yyy/TV/refs/heads/main/VOD_Zee5.m3u"
+  }
 ]
